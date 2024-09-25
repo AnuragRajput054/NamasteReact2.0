@@ -1,0 +1,25 @@
+
+#orange{
+    background-color: orangered;
+    width: 600px;
+    height: 100px;
+}
+#green{
+    background-color: green;
+    width: 600px;
+    height: 100px;
+}
+#white{   
+    width: 600px;
+    height: 100px;
+    text-align: center;
+    text-shadow: 0ch;
+    font-size: larger;
+    font-weight: 700;
+}
+#parent{
+       margin-top: 100px; 
+       margin-left: 500px;
+       border: 2px solid black;
+       width: 600px;
+}

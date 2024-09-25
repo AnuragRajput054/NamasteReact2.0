@@ -1,0 +1,25 @@
+{
+  "name": "namastereact-2.0",
+  "version": "1.0.0",
+  "description": "This is a practice series of Namaste React",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnuragRajput054/NamasteReact2.0.git"
+  },
+  "keywords": [
+    "ReactJs",
+    "Namste",
+    "React",
+    "Practice"
+  ],
+  "author": "Anurag Rajput",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnuragRajput054/NamasteReact2.0/issues"
+  },
+  "homepage": "https://github.com/AnuragRajput054/NamasteReact2.0#readme"
+}
